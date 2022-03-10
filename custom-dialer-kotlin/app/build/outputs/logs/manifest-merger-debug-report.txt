@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\a14a5ff3defa4bfc1f8505be371b17df\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\fc8774e92fafae7c5fd301a03e2d8945\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\4ee85411cb2a200c54877680033b3b1e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7a0dd16c7ce6cfed593c71ed954b49f9\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\jetified-timber-4.7.0.aar\a70be09324db69043b457865595a2518\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\6a9eb3bf7ab157ece15ddfe334372701\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1aaa818b33486b542e02b2a67e3b5eef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ec55d1e6dac483a0af94c5f9aa7ce4ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\db353b3f385b8c84853936d889a87e53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\742b0cfe076b5b3d69157bf6c3a826ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\78e0e95ec86eccf7a8a1cd1c62285698\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\01ccee605fd1924935ca18cb98277149\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\029b3bfd6b59ad46e7299781432e7b70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\4647b4e8158be69d8e663f16dba78d90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\46ce02b4341605ec6d7ddadf698428b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2434576c2fc6cfa29728bf4653c12244\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\7c23a01f9f330df40384ea1b9fa26e34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\30d7a11fa5a1c4bbb26a374b4e91e696\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1274466db2501225be9739abf3efa0b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\df380cfdcfda36dbf72d48df72684dff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c2095bd5303b38c00229c032eb9aa142\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\53ff3c97d6b3e9df92b2ee0b0a5f7207\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ffbf165ed210b5e53cc7a0c6b3be7c84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3825d027ecbc19cacf29fc5fed00d69b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3f8327d477349e6d0b19d36cb9efa22b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c6ecf4b84817d994b48f7217c38908d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\40e58321047b838b171174cfac215f23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\df37d4370cfd35bef27b36db1956be4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9ccb14caabc719428439e0a2bb26648a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d2a5b8a762c70df7b4399c04754b2c0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ab606b9e8bc53981c90add74dc61c9d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6a044497a5a1d1ecfe132122b6794bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b1e377583a64ab9797634ea98ae05941\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:7:22-66
+application
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:9:5-58:19
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\a14a5ff3defa4bfc1f8505be371b17df\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\a14a5ff3defa4bfc1f8505be371b17df\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\4ee85411cb2a200c54877680033b3b1e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\4ee85411cb2a200c54877680033b3b1e\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\jetified-timber-4.7.0.aar\a70be09324db69043b457865595a2518\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\jetified-timber-4.7.0.aar\a70be09324db69043b457865595a2518\AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\53ff3c97d6b3e9df92b2ee0b0a5f7207\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\53ff3c97d6b3e9df92b2ee0b0a5f7207\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:10:9-28
+activity#com.github.arekolek.phone.DialerActivity
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:19:9-42:20
+	android:windowSoftInputMode
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:20:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#action:name:android.intent.action.DIAL+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:28:13-37:29
+action#android.intent.action.VIEW
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:30:25-66
+action#android.intent.action.DIAL
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:33:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:35:27-75
+data
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:36:17-46
+	android:scheme
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:36:23-43
+intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:38:13-41:29
+service#com.github.arekolek.phone.CallService
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:44:9-55:19
+	android:permission
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:45:13-40
+meta-data#android.telecom.IN_CALL_SERVICE_UI
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:48:13-51:19
+	android:value
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:49:17-66
+intent-filter#action:name:android.telecom.InCallService
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:52:13-54:29
+action#android.telecom.InCallService
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:53:17-72
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:53:25-69
+activity#com.github.arekolek.phone.CallActivity
+ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:57:9-50
+	android:name
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml:57:19-47
+uses-sdk
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\a14a5ff3defa4bfc1f8505be371b17df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha03.aar\a14a5ff3defa4bfc1f8505be371b17df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\fc8774e92fafae7c5fd301a03e2d8945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\fc8774e92fafae7c5fd301a03e2d8945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\4ee85411cb2a200c54877680033b3b1e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\4ee85411cb2a200c54877680033b3b1e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7a0dd16c7ce6cfed593c71ed954b49f9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7a0dd16c7ce6cfed593c71ed954b49f9\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\jetified-timber-4.7.0.aar\a70be09324db69043b457865595a2518\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\jetified-timber-4.7.0.aar\a70be09324db69043b457865595a2518\AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\6a9eb3bf7ab157ece15ddfe334372701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\6a9eb3bf7ab157ece15ddfe334372701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1aaa818b33486b542e02b2a67e3b5eef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\1aaa818b33486b542e02b2a67e3b5eef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ec55d1e6dac483a0af94c5f9aa7ce4ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ec55d1e6dac483a0af94c5f9aa7ce4ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\db353b3f385b8c84853936d889a87e53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\db353b3f385b8c84853936d889a87e53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\742b0cfe076b5b3d69157bf6c3a826ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\742b0cfe076b5b3d69157bf6c3a826ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\78e0e95ec86eccf7a8a1cd1c62285698\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\78e0e95ec86eccf7a8a1cd1c62285698\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\01ccee605fd1924935ca18cb98277149\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\01ccee605fd1924935ca18cb98277149\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\029b3bfd6b59ad46e7299781432e7b70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\029b3bfd6b59ad46e7299781432e7b70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\4647b4e8158be69d8e663f16dba78d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\4647b4e8158be69d8e663f16dba78d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\46ce02b4341605ec6d7ddadf698428b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\46ce02b4341605ec6d7ddadf698428b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2434576c2fc6cfa29728bf4653c12244\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2434576c2fc6cfa29728bf4653c12244\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\7c23a01f9f330df40384ea1b9fa26e34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\7c23a01f9f330df40384ea1b9fa26e34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\30d7a11fa5a1c4bbb26a374b4e91e696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\30d7a11fa5a1c4bbb26a374b4e91e696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1274466db2501225be9739abf3efa0b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1274466db2501225be9739abf3efa0b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\df380cfdcfda36dbf72d48df72684dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\df380cfdcfda36dbf72d48df72684dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c2095bd5303b38c00229c032eb9aa142\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c2095bd5303b38c00229c032eb9aa142\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\2668d19b0a08c06a6b3e85f408d9dea2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\53ff3c97d6b3e9df92b2ee0b0a5f7207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\53ff3c97d6b3e9df92b2ee0b0a5f7207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ffbf165ed210b5e53cc7a0c6b3be7c84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ffbf165ed210b5e53cc7a0c6b3be7c84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3825d027ecbc19cacf29fc5fed00d69b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3825d027ecbc19cacf29fc5fed00d69b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3f8327d477349e6d0b19d36cb9efa22b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3f8327d477349e6d0b19d36cb9efa22b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c6ecf4b84817d994b48f7217c38908d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c6ecf4b84817d994b48f7217c38908d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\40e58321047b838b171174cfac215f23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\40e58321047b838b171174cfac215f23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\df37d4370cfd35bef27b36db1956be4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\df37d4370cfd35bef27b36db1956be4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9ccb14caabc719428439e0a2bb26648a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9ccb14caabc719428439e0a2bb26648a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d2a5b8a762c70df7b4399c04754b2c0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d2a5b8a762c70df7b4399c04754b2c0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ab606b9e8bc53981c90add74dc61c9d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ab606b9e8bc53981c90add74dc61c9d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6a044497a5a1d1ecfe132122b6794bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6a044497a5a1d1ecfe132122b6794bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b1e377583a64ab9797634ea98ae05941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\supranav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b1e377583a64ab9797634ea98ae05941\AndroidManifest.xml:20:5-44
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		ADDED from C:\test\simplephone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\test\simplephone\app\src\main\AndroidManifest.xml
